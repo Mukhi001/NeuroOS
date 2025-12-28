@@ -1,0 +1,36 @@
+{
+  "1": { "title": "Mukesh", "content": "cool test post" },
+  "2": { "title": "fastapi intro", "content": "learning fastapi basics" },
+  "3": {
+    "title": "backend setup",
+    "content": "setting up backend project structure"
+  },
+  "4": { "title": "api testing", "content": "testing api using swagger ui" },
+  "5": { "title": "routing", "content": "understanding fastapi routing" },
+  "6": { "title": "path params", "content": "working with path parameters" },
+  "7": { "title": "query params", "content": "using query parameters" },
+  "8": {
+    "title": "pydantic models",
+    "content": "data validation with pydantic"
+  },
+  "9": {
+    "title": "crud basics",
+    "content": "create read update delete operations"
+  },
+  "10": {
+    "title": "status codes",
+    "content": "using proper http status codes"
+  },
+  "11": { "title": "error handling", "content": "handling api errors cleanly" },
+  "12": { "title": "middleware", "content": "adding middleware to fastapi" },
+  "13": { "title": "cors setup", "content": "configuring cors for frontend" },
+  "14": { "title": "authentication", "content": "basic auth concepts" },
+  "15": { "title": "jwt tokens", "content": "working with jwt tokens" },
+  "16": { "title": "security", "content": "securing api endpoints" },
+  "17": { "title": "async await", "content": "understanding async in python" },
+  "18": { "title": "background tasks", "content": "running background jobs" },
+  "19": { "title": "deployment", "content": "deploying fastapi app" },
+  "20": { "title": "scaling", "content": "scaling backend services" },
+  "21": { "title": "logging", "content": "logging in fastapi" },
+  "22": { "title": "monitoring", "content": "monitoring api performance" }
+}
